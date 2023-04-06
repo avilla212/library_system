@@ -1,0 +1,26 @@
+TODO: 
+   - Ask users at the start if they want to create a library card to browse the library
+
+      - If they choose no, give them access to...
+         - Add books, view all books and create a library card
+         - give the access to a switch_case_menu_option_no 
+         - this menu will look like our original menu 
+            - it will have the same options and but the user can only use add books, view books and can only check out one book 
+            - the user can only check out one book and anytime they try to do it once they will be prompted to sign up for a library card 
+            - the user can only check out books if the
+      - Othwerise, let them create a library card with Full name, phone number and randomly generated library card number
+      DONE
+      - Store library cards into a hashmap
+      DONE
+      
+   - Work on testing no branches in library card class 
+   DONE 
+
+   - eventually incorporate options to add new users to our hashmap while program is running 
+   - switch between users using Generated ID 
+      - Create options in our switch menu to create new library card(user)
+      - keep track of books
+   - create option to delete current user 
+   - use google books API to use real books in our library 
+   
+   
